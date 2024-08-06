@@ -22,32 +22,28 @@ This project is a K-pop website designed to provide detailed descriptions of dif
 To get started with the project, follow these steps:
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/kpop-website.git
-   cd kpop-website
+    ```bash
+    git clone https://github.com/yourusername/kpop-website.git
+    cd kpop-website
 2. Install dependencies:
 Navigate to the frontend directory and install dependencies:
- ```bash
-   cd frontend
-   npm install
+    ```bash
+    cd frontend
+    npm install
 
 3.Start the development server:
 For the frontend:
+    ```bash
+    cd ../backend
+    npm install
 
- ```bash
-Copy code
-npm start
-For the backend:
+4. Start the dependencies
+    ```bash(for frontend and backend )
+    npm start
+    npm run dev
 
- ```bash
-Copy code
-npm run dev
-Usage
-Once the development server is running, open your browser and navigate to http://localhost:3000 to view the website. You can add, update, and view information about different K-pop artists.
-
-**Contributing**
-If you would like to contribute to this project, please follow these steps:
-
+5.Usage
+Once the development server is running, open your browser and navigate to http://localhost:3000 to view the website. You can add, update, and view information about different K-pop artists.        
 **Fork the repository.**
 Create a new branch (git checkout -b feature-branch).
 Make your changes.
@@ -60,8 +56,7 @@ This project is licensed under the MIT License.
 **Acknowledgments**
 Inspiration: The global K-pop community and its dedicated fans.
 Contributors: All contributors who helped in developing this project.
-arduino
-Copy code
+
 
 Replace `https://github.com/yourusername/kpop-website.git` with the actual URL of your GitHub repository. You can add more details and sections as needed for your project. Save this content in a file named `README.md` in the root directory of your project.
 
