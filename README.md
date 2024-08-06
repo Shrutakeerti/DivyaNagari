@@ -29,5 +29,7 @@ To get started with the project, follow these steps:
 Navigate to the frontend directory and install dependencies:
  ```bash
    cd frontend
-npm install
+   npm install
+
+3.
 
