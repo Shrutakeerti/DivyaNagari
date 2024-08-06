@@ -31,5 +31,46 @@ Navigate to the frontend directory and install dependencies:
    cd frontend
    npm install
 
-3.
+3.Start the development server:
+For the frontend:
+
+ ```bash
+Copy code
+npm start
+For the backend:
+
+ ```bash
+Copy code
+npm run dev
+Usage
+Once the development server is running, open your browser and navigate to http://localhost:3000 to view the website. You can add, update, and view information about different K-pop artists.
+
+**Contributing**
+If you would like to contribute to this project, please follow these steps:
+
+**Fork the repository.**
+Create a new branch (git checkout -b feature-branch).
+Make your changes.
+Commit your changes (git commit -m 'Add some feature').
+Push to the branch (git push origin feature-branch).
+Open a pull request.
+License
+This project is licensed under the MIT License.
+
+**Acknowledgments**
+Inspiration: The global K-pop community and its dedicated fans.
+Contributors: All contributors who helped in developing this project.
+arduino
+Copy code
+
+Replace `https://github.com/yourusername/kpop-website.git` with the actual URL of your GitHub repository. You can add more details and sections as needed for your project. Save this content in a file named `README.md` in the root directory of your project.
+
+
+
+
+
+
+
+
+
 
