@@ -25,3 +25,9 @@ To get started with the project, follow these steps:
    ```bash
    git clone https://github.com/yourusername/kpop-website.git
    cd kpop-website
+2. Install dependencies:
+Navigate to the frontend directory and install dependencies:
+ ```bash
+   cd frontend
+npm install
+
